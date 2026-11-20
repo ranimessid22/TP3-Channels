@@ -1,0 +1,4 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Nécessaire à Flutter pour communiquer avec l application (hot reload, débogage). -->
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
